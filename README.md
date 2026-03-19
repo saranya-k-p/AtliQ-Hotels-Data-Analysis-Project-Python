@@ -45,25 +45,25 @@ AtliQ Grands operates hotels in major Indian cities such as **Delhi, Mumbai, Ban
 
 
 ## Business Recommendations
--Delhi Strategy:  
+1. Delhi Strategy:  
    - Despite high occupancy, Delhi’s revenue per city is low.  
    - Review pricing and upscale packages to drive higher revenue.  
    - Maintain and strengthen customer experience and service quality to sustain high occupancy.
 
--Bangalore Deep Dive:  
+2. Bangalore Deep Dive:  
    - Bangalore shows decent revenue, but low occupancy.  
    - Analyze which room categories or customer segments are less booked and adjust offerings accordingly.
 
--Premium Focus:  
+3. Premium Focus:  
    - Leverage the success of presidential rooms by boosting demand for elite and premium categories through targeted marketing.
 
--Weekday Occupancy Boost:  
+4. Weekday Occupancy Boost:  
    - Introduce business-focused packages (e.g., meeting rooms, co-working) to drive weekday bookings.
 
--Monthly Revenue Planning:  
+5. Monthly Revenue Planning:  
    - Identify reasons for June’s dip and replicate successful strategies from May and July.
 
--Dynamic Pricing:  
+6. Dynamic Pricing:  
    - Implement dynamic pricing strategies for weekends to maximize revenue during high-demand periods.  
    - Adjust pricing and marketing strategies based on seasonal demand patterns.
 
