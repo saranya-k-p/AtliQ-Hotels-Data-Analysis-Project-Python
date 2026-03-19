@@ -32,14 +32,41 @@ AtliQ Grands operates hotels in major Indian cities such as **Delhi, Mumbai, Ban
 - Mumbai generates the highest revenue (₹668M) among all cities.
 - May 2022 recorded the highest monthly revenue, followed by July and June.
 
-## Recommendations
+## Technical Approach
 
-- Implement dynamic pricing strategies for weekends to maximize revenue during high-demand periods.  
-- Increase marketing and promotional campaigns in Bangalore to improve occupancy rates.  
-- Expand premium room offerings and luxury services in Mumbai to leverage its high revenue generation.  
-- Maintain and strengthen customer experience and service quality in Delhi to sustain high occupancy.  
-- Optimize room pricing strategies across different room categories, especially for premium rooms.  
-- Adjust pricing and marketing strategies based on seasonal demand patterns.
+- Used `shape`, `head`, `tail`, and `columns` to understand dataset structure  
+- Applied `describe`, `mean`, `std`, and `round` to summarize numerical data  
+- Used `unique` and `value_counts` to identify categories and platforms  
+- Applied `lambda` to format occupancy percentage (×100, rounded to 2 decimals)  
+- Used `groupby` to analyze patterns by city, category, and time  
+- Merged datasets using `merge` for deeper insights  
+- Ensured consistent date formatting for time-based analysis  
+- Created bar charts (vertical & horizontal) for visualization  
+
+
+## Business Recommendations
+1. Delhi Strategy:  
+   - Despite high occupancy, Delhi’s revenue per city is low.  
+   - Review pricing and upscale packages to drive higher revenue.  
+   - Maintain and strengthen customer experience and service quality to sustain high occupancy.
+
+2. Bangalore Deep Dive:  
+   - Bangalore shows decent revenue, but low occupancy.  
+   - Analyze which room categories or customer segments are less booked and adjust offerings accordingly.
+
+3. Premium Focus:  
+   - Leverage the success of presidential rooms by boosting demand for elite and premium categories through targeted marketing.
+
+4. Weekday Occupancy Boost:  
+   - Introduce business-focused packages (e.g., meeting rooms, co-working) to drive weekday bookings.
+
+5. Monthly Revenue Planning:  
+   - Identify reasons for June’s dip and replicate successful strategies from May and July.
+
+6. Dynamic Pricing:  
+   - Implement dynamic pricing strategies for weekends to maximize revenue during high-demand periods.  
+   - Adjust pricing and marketing strategies based on seasonal demand patterns.
+
 
 ## Business Impact
 
